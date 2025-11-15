@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ws;
 
 import com.example.demo.entities.Compte;
 import com.example.demo.entities.TypeCompte;
@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 import java.util.List;
-import java.util.Optional;
 
 @Component
 @WebService(serviceName = "BanqueWS")
