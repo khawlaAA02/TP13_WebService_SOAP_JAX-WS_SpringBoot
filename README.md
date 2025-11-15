@@ -1,20 +1,22 @@
 ### TP 13 : Web Service SOAP avec JAX-WS et Spring Boot
 
-## L’objectif de ce TP est de mettre en place un service web SOAP en utilisant Spring Boot et Apache CXF, afin de comprendre comment publier, consommer et tester un service SOAP dans un environnement Java moderne.
-## Ce TP permet de :
+## Objectif du TP :
 
-Configurer un projet Spring Boot avec support JAX-WS et Apache CXF pour l’exposition d’un service SOAP.
+L’objectif de ce TP est de mettre en place un service web SOAP en utilisant Spring Boot et Apache CXF, afin de comprendre comment publier, consommer et tester un service SOAP dans un environnement Java moderne.
 
-Implémenter un Web Service bancaire offrant des opérations CRUD sur l’entité Compte.
+Ce TP permet de :
 
-Utiliser Spring Data JPA et la base H2 en mémoire pour la persistance des données.
+- Configurer un projet Spring Boot avec support JAX-WS et Apache CXF pour l’exposition d’un service SOAP.
 
-Publier un service SOAP à travers un endpoint accessible via un WSDL.
+- Implémenter un Web Service bancaire offrant des opérations CRUD sur l’entité Compte.
 
-Tester les opérations du service via l’outil SoapUI.
+- Utiliser Spring Data JPA et la base H2 en mémoire pour la persistance des données.
 
-À la fin du TP, l’étudiant est capable de :
-✔ Développer et configurer un service SOAP sous Spring Boot
-✔ Comprendre le rôle du WSDL, des DTO, et du endpoint SOAP
-✔ Manipuler un service SOAP via SoapUI en envoyant des requêtes XML
-✔ Produire une application exécutable et testable de bout en bout
+- Publier un service SOAP à travers un endpoint accessible via un WSDL.
+
+- Tester les opérations du service via l’outil SoapUI.
+
+
+### Vidéo d'exécution
+
+La vidéo ci-dessous illustre l’exécution complète du projet : démarrage du serveur Spring Boot, accès au WSDL, puis tests des opérations SOAP via SoapUI (création, consultation, suppression et affichage des comptes).
