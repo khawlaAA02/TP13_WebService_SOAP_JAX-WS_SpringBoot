@@ -20,3 +20,7 @@ Ce TP permet de :
 ### Vidéo d'exécution
 
 La vidéo ci-dessous illustre l’exécution complète du projet : démarrage du serveur Spring Boot, accès au WSDL, puis tests des opérations SOAP via SoapUI (création, consultation, suppression et affichage des comptes).
+
+
+https://github.com/user-attachments/assets/1bc05c4f-0153-4af5-9336-dc9e3cfe072c
+
